@@ -1,0 +1,4 @@
+List of animals:
+ - elephant;
+ - monkey;
+ - parrot;
